@@ -5,8 +5,8 @@
 </div>
   
 ---
-- 🔭 Actualmente estoy desarrollando habilidades en Pytorch y TensorFlow.
-- 🌱 Lo más actual en lo que trabajé: VueJS + Java + SpringBoot.
+- 🔭 Actualmente estoy desarrollando habilidades en Keras, Redes Neuronales y Automatización de Scripts con Python.
+- 🌱 Lo más actual en lo que trabajé: Redes Neuronales y Backend (Java).
 - 👯 Estoy buscando poder trabajar en proyectos bacanes con personas bacanes.
 - 💬 Averigua más de mi experiencia en: https://www.linkedin.com/in/constanzamoya/
 - ⚡ Dato que nadie pidió: Mi plato preferido son las pantrucas.

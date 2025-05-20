@@ -40,5 +40,5 @@
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rescue98&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rescue98&show_icons=true&theme=radical)
 
